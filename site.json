@@ -1,0 +1,91 @@
+{
+  "site_title": "Vanessa Coles",
+  "site_tagline": "Full Stack Engineer",
+  "site_intro": "I'm a full stack engineer with a passion for creating beautiful and functional web applications. I have experience with a variety of technologies and am always looking to learn more.",
+  "site_meta": {
+    "description": "Vanessa Coles is a full stack engineer with a passion for creating beautiful and functional web applications. She has experience with a variety of technologies and is always looking to learn more.",
+    "keywords": "full stack engineer, web developer, web applications, Node.js, Express, MongoDB, Mongoose, Python, PHP, Symfony, WordPress, Figma, Photoshop, Docker, Lando, Next.js, GatsbyJs, React, Sass, TailwindCSS, TypeScript, Vite"
+  },
+  "site_links": [
+    {
+      "title": "Home",
+      "endpoint": "/"
+    },
+    {
+      "title": "About",
+      "endpoint": "/about"
+    },
+    {
+      "title": "Writings",
+      "endpoint": "/blog"
+    },
+    {
+      "title": "Photos",
+      "endpoint": "/photos"
+    },
+    {
+      "title": "Contact",
+      "endpoint": "/contact"
+    }
+  ],
+  "sections": {
+    "personal": {
+      "title": "You Can Find Me",
+      "description": "Things I like to do in my off-time.",
+      "content": [
+        "Working on personal projects.  See my Github for more.",
+        "Completing my Scarlet and Violet Pokedex(es).",
+        "Exploring the rogue-lite genre on Steam.",
+        "Getting ready for the new WoW expansion.  For the Horde!",
+        "Enjoying a relaxing day in Paldea, or visiting Stardew Valley."
+      ]
+    },
+    "skills": {
+      "title": "I've Worked With",
+      "description": "Technologies I have experience with.",
+      "content": {
+        "backend": [
+          "Node.js",
+          "Express",
+          "MongoDB",
+          "Mongoose",
+          "Python",
+          "PHP",
+          "Symfony",
+          "WordPress"
+        ],
+        "design": ["Figma", "In-Design", "Photoshop"],
+        "devops": ["Docker", "Lando"],
+        "frontend": [
+          "Next.js",
+          "GatsbyJs",
+          "React",
+          "Sass",
+          "TailwindCSS",
+          "TypeScript",
+          "Vite"
+        ],
+        "top10": [
+          "Next.js",
+          "React",
+          "TypeScript",
+          "TailwindCSS",
+          "MongoDB",
+          "Express",
+          "Docker",
+          "PHP",
+          "Symfony",
+          "WordPress"
+        ]
+      }
+    },
+    "social_links": {
+      "email": {
+        "work": "work@vcoles.com",
+        "personal": "hello@vcoles.com"
+      },
+      "linkedin": "https://www.linkedin.com/in/vcolesdev/",
+      "github": "https://www.github.com/vcolesdev"
+    }
+  }
+}
